@@ -17,5 +17,5 @@ spec:
       repository: stefanprodan/podinfo
       tag: 3.0.0
     service:
-      enabled: true
+      enabled: false
       type: ClusterIP
